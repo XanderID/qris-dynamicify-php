@@ -10,9 +10,9 @@ The project solves the problem of static, non-specific QRIS codes by allowing yo
 - **Set Transaction Amount**: Easily set a specific price for the transaction.
 - **Add Tax/Service Fee**: Include nominal or percentage-based taxes and fees.
 - **QRIS Metadata Extraction**: Parse and retrieve merchant information from any QRIS code.
-- **Multiple Input formats**: Accepts QRIS data from a raw string or an image file (`.png`, `.jpg`).
+- **Multiple Input Formats**: Accepts QRIS data from a raw string or an image file (`.png`, `.jpg`, `.jpeg`).
 - **Flexible Output**: Generate a dynamic QRIS as a raw string or save it directly as a QR code image.
-- **Modern and Type-Safe**: Written in TypeScript for a better development experience.
+- **PHP-Friendly**: Fully written in PHP with type-safe methods for a clean development experience.
 - **Lightweight**: Minimal dependencies to keep your project lean.
 
 ## Installation
