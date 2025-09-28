@@ -1,0 +1,14 @@
+# Composer
+vendor/
+composer.lock
+
+# Build / temporary files
+.build/
+tmp/
+cache/
+
+# IDE / editor files
+.idea/
+.vscode/
+
+phpstan.neon.dist
