@@ -20,7 +20,7 @@ The project solves the problem of static, non-specific QRIS codes by allowing yo
 You can install `qris-dynamicify` via composer.
 
 ```bash
-composer require qris-dynamicify
+composer require xanderid/qris-dynamicify
 ```
 
 ## Usage Instructions
