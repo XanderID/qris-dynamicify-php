@@ -23,6 +23,12 @@ You can install `qris-dynamicify` via composer.
 composer require xanderid/qris-dynamicify
 ```
 
+## Live Demo
+
+You can try QRIS Dynamicify directly in your browser:
+
+[https://xanderid.github.io/qris-dynamicify/](https://xanderid.github.io/qris-dynamicify/)
+
 ## Usage Instructions
 
 Here’s how to get started with `qris-dynamicify`.
